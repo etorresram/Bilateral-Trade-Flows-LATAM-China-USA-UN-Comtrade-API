@@ -1,4 +1,5 @@
 # Bilateral Trade Flows Between Latin America, China, and the United States Using UN COMTRADE API Data
+Author: Eric Torres
 
 ## Overview
 
